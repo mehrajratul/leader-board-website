@@ -1,0 +1,49 @@
+body{
+    background-color: #000000;
+}
+nav img{
+    height: 40px;
+}
+section{
+    margin-top: 15px;
+    border-radius: 10px;
+}
+h3{
+    margin-top: 15px;
+}
+main{
+    max-width: 870px;
+}
+.top-player{
+    background-color: white;
+}
+.player img{
+    width: 50px;
+}
+.player{
+    padding-left: 20px;
+}
+.line{
+    position: absolute;
+    width: 807px;
+    height: 0px;
+    border: 1px solid #5a3f3f;
+}
+.cources{
+    display: flex;
+}
+.cources img{
+    height: 150px;
+    width: 170px;
+}
+.card-img-top{
+    height: auto;
+}
+button{
+    background-color: rgb(107, 194, 107);
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    padding: 5px 25px 5px 25px;
+    cursor: pointer;
+}
